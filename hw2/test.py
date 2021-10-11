@@ -1,0 +1,10 @@
+student1 = input("Enter the first student's name.")
+score1 = input("Enter the first student's score.")
+score1 = int(score1)
+student2 = input("Enter the second student's name.")
+score2 = int(input("Enter the second student's score."))
+print("name","score")
+print('%3s %5d' %(student1,score1))
+print('%3s %5d' %(student2,score2))
+total = score1 + score2
+print('total is', total)

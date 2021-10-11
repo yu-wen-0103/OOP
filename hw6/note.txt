@@ -1,0 +1,15 @@
+https://blog.csdn.net/u014558668/article/details/71248914
+
+pure virtual vs virtual:
+https://shengyu7697.github.io/cpp-virtual/
+
+
+https://www.angelfire.com/tx4/cus/shapes/cpp.html
+https://www.796t.com/article.php?id=167584
+https://www.runoob.com/cplusplus/cpp-polymorphism.html
+
+
+
+
+https://kent010341.github.io/java-tutorial/advanced-class.html
+https://coolmandiary.blogspot.com/2018/04/java.html
